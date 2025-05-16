@@ -1,5 +1,3 @@
-Here is the transformed module:
-
 ---
 title: "Exposure Control: Understanding Creative Choices and Prioritizing Settings"
 layout: post

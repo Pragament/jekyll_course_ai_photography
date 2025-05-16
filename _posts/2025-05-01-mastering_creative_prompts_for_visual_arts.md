@@ -1,5 +1,3 @@
-Here is the transformed module:
-
 ---
 title: "Mastering Creative Prompts for Visual Arts"
 layout: post

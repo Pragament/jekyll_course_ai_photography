@@ -1,5 +1,3 @@
-Here is the transformed module:
-
 ---
 title: "Exploring Digital Art: A Comprehensive Guide"
 layout: post
