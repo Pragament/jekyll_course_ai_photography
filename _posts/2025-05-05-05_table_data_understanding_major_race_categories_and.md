@@ -7,14 +7,18 @@ layout: post
 
 As we navigate the complexities of race and identity, it is essential to have a clear understanding of the various categories and subcategories that exist. This table provides a comprehensive overview of the major race categories and their corresponding subcategories, serving as a valuable resource for those seeking to understand and address issues related to diversity, equity, and inclusion.
 
+
+
+![The table below categorizes individuals...](images/image_paragraph_2.png)
+
 The table below categorizes individuals into six major race categories: African & African Diaspora, Indigenous Peoples, Asian, European & White, Pacific Islander, and Mixed/Other. Within each category, we find various subcategories that reflect the diverse experiences and identities of individuals who identify with these groups. For instance, under the African & African Diaspora category, we see subcategories such as African American, Black, and African, highlighting the complexities of identity within this group.
 
-| Major Race Category | Subcategories / Examples |
-| --- | --- |
-| **African & African Diaspora** | African American, Black, African |
-| **Indigenous Peoples** | American Indian, Native American, Indigenous, Native Australian |
-| **Asian** | Asian, Asian American, East Asian, South Asian, Southeast Asian, Indian, Japanese, Chinese, Korean, Pacific Islander |
-| **European & White** | Caucasian, European, White, Scandinavian, Mediterranean, Hispanic, Latino |
+| Major Race Category | Subcategories / Examples | Image |
+| --- | --- | --- |
+| **African & African Diaspora** | African American, Black, African | ![African & African Diaspora](images/table_row_1.png) |
+| **Indigenous Peoples** | American Indian, Native American, Indigenous, Native Australian | ![Indigenous Peoples](images/table_row_2.png) |
+| **Asian** | Asian, Asian American, East Asian, South Asian, Southeast Asian, Indian, Japanese, Chinese, Korean, Pacific Islander | ![Asian](images/table_row_3.png) |
+| **European & White** | Caucasian, European, White, Scandinavian, Mediterranean, Hispanic, Latino | ![European & White](images/table_row_4.png) |
 
 As we examine this table, it becomes clear that each major race category is comprised of a range of subcategories that reflect the diverse experiences and identities within these groups. This complexity is crucial to understanding, as it highlights the need for nuanced approaches when addressing issues related to diversity, equity, and inclusion.
 
@@ -25,6 +29,10 @@ The significance of this table lies in its ability to provide a framework for un
 As we continue to navigate the complexities of race and identity, it is essential that we have a clear understanding of the various categories and subcategories that exist. This table serves as a valuable resource for those seeking to promote diversity, equity, and inclusion in their personal and professional lives.
 
 Conclusion:
+
+
+
+![In conclusion, this table provides...](images/image_paragraph_1.png)
 
 In conclusion, this table provides a comprehensive overview of the major race categories and their corresponding subcategories, serving as a valuable tool for promoting diversity, equity, and inclusion. By recognizing the complexities within each category, we can develop more effective strategies for addressing issues related to race and identity. As we move forward, it is essential that we continue to learn from this table and its significance in our ongoing efforts to promote inclusivity and combat discrimination.
 

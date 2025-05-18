@@ -1,9 +1,15 @@
+Here is the transformed module:
+
 ---
 title: "Exploring Digital Art: A Comprehensive Guide"
 layout: post
 ---
 
 # Introduction to Digital Art
+
+
+
+![Digital art has become an...](images/image_paragraph_1.png)
 
 Digital art has become an integral part of modern art, offering a wide range of creative possibilities. From expressionist to surrealistic styles, digital artists have pushed the boundaries of traditional mediums like painting and sculpture. This module will delve into various digital art movements, explore composition and framing techniques, discuss lighting, colors, and shadows, and finally, examine technical parameters.
 
@@ -74,5 +80,9 @@ The Exposure Triangle: Aperture, ISO, and Shutter Speed are interconnected. Chan
 Exposure Meter: Your camera's built-in light meter helps determine the "correct" exposure. Aim for a meter reading around 0 (or middle gray).
 
 **Conclusion**
+
+
+
+![Digital art is a vast...](images/image_paragraph_2.png)
 
 Digital art is a vast and exciting field, offering endless possibilities for creative expression. By exploring various digital art movements, composition and framing techniques, lighting, colors, and shadows, as well as technical parameters, you'll be well-equipped to create stunning digital artworks that capture your unique vision and style.

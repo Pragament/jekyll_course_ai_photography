@@ -13,29 +13,16 @@ A camera angle refers to the position or vantage point from which a scene is cap
 
 The following table highlights some common camera angles and their descriptions:
 
-| Category | Term/Technique | Description |
-| --- | --- | --- |
-| Camera Angles | Eye-Level Shot | The camera is positioned at the subject’s eye level for a neutral, natural perspective. |
-|  | High-Angle Shot | The camera is placed above the subject, making it appear smaller, vulnerable, or insignificant. |
-|  | Low-Angle Shot | The camera is positioned below the subject, lending it power, dominance, or heroism. |
-|  | Bird’s Eye View | An overhead shot taken directly from above, offering a broad and detached perspective of the scene. |
-|  | Worm’s Eye View | A shot from ground level looking upward, emphasizing scale, drama, or grandeur. |
-|  | Dutch Tilt/Canted Angle | The camera is tilted to one side, creating a sense of disorientation, unease, or tension. |
-
-By using different camera angles, filmmakers can create a nuanced portrayal of their characters and stories. For instance, an eye-level shot can make the audience feel more connected to the subject, while a high-angle shot can emphasize their vulnerability.
-
-**Shot Types: The Art of Framing**
-
-A shot type refers to the specific framing and composition used in capturing a scene. This element plays a crucial role in drawing attention, creating tension, or establishing context. Shot types are often categorized into:
-
-| Category | Term/Technique | Description |
-| --- | --- | --- |
-| Shot Types | Extreme Wide Shot (EWS) | Captures a vast environment, often used as an establishing shot to situate the audience in the location and context. |
-|  | Wide Shot (WS) | Shows the subject within a large portion of the background, establishing the environment and spatial relationships. |
-|  | Long/Full Shot | Frames the subject from head to toe, emphasizing their presence and movement within the space. |
-|  | Master Shot | A comprehensive shot that captures the entire scene and all characters, establishing spatial relationships and overall action. |
-|  | Medium Shot (MS) | Frames the subject from the waist up, balancing detail with the surrounding context. |
-|  | Medium Close-Up (MCU) | Focuses on the subject from the chest to the head, highlighting facial expressions and subtle details. |
+| Category | Term/Technique | Description | Image |
+| --- | --- | --- | --- |
+| Camera Angles | Eye-Level Shot | The camera is positioned at the subject’s eye level for a neutral, natural perspective. | ![Camera Angles](images/table_row_1.png) |
+|  | High-Angle Shot | The camera is placed above the subject, making it appear smaller, vulnerable, or insignificant. | ![Table image](images/table_row_2.png) |
+|  | Low-Angle Shot | The camera is positioned below the subject, lending it power, dominance, or heroism. | ![Table image](images/table_row_3.png) |
+|  | Bird’s Eye View | An overhead shot taken directly from above, offering a broad and detached perspective of the scene. | ![Table image](images/table_row_4.png) |
+|  | Worm’s Eye View | A shot from ground level looking upward, emphasizing scale, drama, or grandeur. | ![Table image](images/table_row_5.png) |
+|  | Dutch Tilt/Canted Angle | The camera is tilted to one side, creating a sense of disorientation, unease, or tension. | ![Table image](images/table_row_6.png) |ble image](images/table_row_4.png) |
+|  | Medium Shot (MS) | Frames the subject from the waist up, balancing detail with the surrounding context. | ![Table image](images/table_row_5.png) |
+|  | Medium Close-Up (MCU) | Focuses on the subject from the chest to the head, highlighting facial expressions and subtle details. | ![Table image](images/table_row_6.png) |
 
 Each shot type serves a specific purpose in storytelling. For example, an extreme wide shot can establish the setting and atmosphere of a scene, while a medium close-up can emphasize character emotions.
 
