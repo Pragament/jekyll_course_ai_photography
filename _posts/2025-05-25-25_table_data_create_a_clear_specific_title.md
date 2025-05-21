@@ -21,7 +21,7 @@ The table above highlights the characteristics of DSLR cameras, including their 
 
 
 
-![One of the most significant...](https://image.pollinations.ai/prompt/dslr%20cameras%20one%2C%20significant%20advantages%20optical%2C%20viewfinder%20ovf%20feature%2C%20detailed%20visualization%2C%20photorealistic%20rendering%2C%20high-quality%2C%20detailed%208k%2C%20realistic%20lighting%2C%20sharp%20focus%2C%20organized%20layout%2C%20systematic%20presentation%2C%20labeled%20components%2C%20professional%20quality%2C%20content-specific%20visualization%2C%20high%20detail)
+![One of the most significant...](images/image_paragraph_1.png)
 
 One of the most significant advantages of DSLR cameras is their optical viewfinder (OVF). This feature provides a real-time preview of the scene, allowing photographers to adjust settings and compose shots more effectively. Additionally, DSLR cameras often have a robust build quality, which makes them suitable for heavy use in various environments. The established lens ecosystems (Canon EF/EF-S and Nikon F mount) offer a wide range of lenses, catering to different photography genres.
 

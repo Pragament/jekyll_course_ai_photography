@@ -21,7 +21,7 @@ Here's a breakdown of the Mirrorless Cameras category:
 
 
 
-![As you can see from...](https://image.pollinations.ai/prompt/cameras%20see%20table%2C%20mirrorless%20offer%20wide%2C%20range%20features%20characteristics%2C%20detailed%20visualization%2C%20photorealistic%20rendering%2C%20high-quality%2C%20detailed%208k%2C%20realistic%20lighting%2C%20sharp%20focus%2C%20professional%20portrait%20style%2C%20clear%20subject%20focus%2C%20well%20composed%2C%20professional%20quality%2C%20content-specific%20visualization%2C%20high%20detail)
+![As you can see from...](images/image_paragraph_3.png)
 
 As you can see from the table above, Mirrorless Cameras offer a wide range of features and characteristics that cater to different needs and preferences. With their advanced autofocus systems, excellent video capabilities, and variety of sensor sizes, these cameras are well-suited for various genres of photography, filmmaking, and hybrid content creation.
 
