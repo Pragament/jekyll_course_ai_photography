@@ -1,0 +1,680 @@
+Recommended Prompt Order
+
+Style
+
+Subject Details & Action
+
+Composition and Framing
+
+Lighting & color
+
+Technical Parameters
+
+Text
+
+Negative prompt
+
+Style
+
+Traditional Art Styles
+
+Line art drawing
+
+Watercolor painting
+
+Oil painting
+
+Charcoal sketch
+
+Ink wash painting
+
+Modern Art Styles
+
+Digital painting
+
+Surrealism
+
+Abstract art
+
+Expressionism
+
+Concept art
+
+Abstract Art
+
+Photography Styles
+
+Black-and-white photography
+
+Cinematic photography
+
+Vintage photography
+
+Macro photography
+
+Product photography
+
+High-fashion editorial
+
+Illustration Styles
+
+Comic book style
+
+Anime-inspired art
+
+Children’s book illustrations
+
+Retro poster art
+
+Specialized Digital Art
+
+Isometric voxel art
+
+3D rendering
+
+Cyberpunk aesthetics
+
+Steampunk designs
+
+Subject & Action
+
+If your image has a subject, the prompt should be written to amplify its presence first and any actions the subject takes afterward. 
+
+First describe the image and then the things around it and how they are interacting with the surroundings. Also you can use layers to give more details like foreground and background details. Shadow details. How the subject is interacting with the environment and subject’s feeling and emotion. In the end you can also tell the overall vibe and mood of the scene.
+
+Race
+
+Clothing Props
+
+Essential Art Movements and Styles
+
+Abstract Expressionism
+
+Art Deco
+
+Art Nouveau
+
+Avant-garde
+
+Baroque
+
+Bauhaus
+
+Classicism
+
+CoBrA
+
+Color Field Painting
+
+Conceptual Art
+
+Constructivism
+
+Cubism
+
+Dada / Dadaism
+
+Digital Art
+
+Expressionism
+
+Fauvism
+
+Futurism
+
+Harlem Renaissance
+
+Impressionism
+
+Installation Art
+
+Land Art
+
+Minimalism
+
+Neo-Impressionism
+
+Neoclassicism
+
+Neon Art
+
+Op Art
+
+Performance Art
+
+Pop Art
+
+Post-Impressionism
+
+Precisionism
+
+Rococo
+
+Street Art
+
+Surrealism
+
+Suprematism
+
+Symbolism
+
+Zero Group
+
+3. Composition & Framing
+
+Comprehensive list of camera techniques, including angles, shot types, framing, focus, movements, and additional filming techniques.
+
+4 Lighting, colors and shadows
+
+Color Effects
+
+Monochrome: A single color tone throughout the image, often black and white or sepia.
+
+High saturation: Intensely vibrant colors that create an eye-catching and bold effect.
+
+Pastel colors: Soft, muted tones for a light, delicate aesthetic.
+
+Neon lighting: Bright, artificial lighting often seen in cyberpunk or retro-themed settings.
+
+Cool tones: Blues, greens, and purples for a calming or mysterious effect.
+
+Warm tones: Reds, oranges, and yellows for an inviting or energetic atmosphere.
+
+Shadow
+
+5. Technical Parameters
+
+Lens type
+
+Aperture
+
+ISO
+
+Shutter speed
+
+Understanding Combinations and Exposure:
+
+The Exposure Triangle: Aperture, ISO, and Shutter Speed are interconnected. Changing one setting often requires adjusting another to maintain proper exposure.
+
+Exposure Meter: Your camera's built-in light meter helps determine the "correct" exposure. Aim for a meter reading around 0 (or middle gray).
+
+Reciprocity: If you decrease one setting (e.g., narrower aperture, lower ISO, faster shutter speed), you need to increase another (e.g., wider aperture, higher ISO, slower shutter speed) to maintain the same exposure level.
+
+Creative Choices: "Correct" exposure is subjective and depends on your artistic intent. You might intentionally underexpose (darker) for mood or overexpose (brighter) for a high-key look.
+
+Prioritizing Settings: Decide which aspect is most important for your shot:
+
+Depth of Field (Aperture Priority Mode - Av or A): Choose aperture first to control DOF, camera adjusts shutter speed.
+
+Motion (Shutter Priority Mode - Tv or S): Choose shutter speed first to control motion blur, camera adjusts aperture.
+
+Full Control (Manual Mode - M): You control all three settings for complete creative freedom.
+
+Example Scenarios & Combinations:
+
+Bright Sunny Day (Landscape): Narrow aperture (f/11-f/16) for deep DOF, Low ISO (100) for best quality, Fast shutter speed (e.g., 1/250s) to balance exposure.
+
+Portrait in Golden Hour: Wide aperture (f/2.8-f/4) for shallow DOF, Low ISO (100-200) for best quality, Medium shutter speed (e.g., 1/125s) to balance exposure.
+
+Indoor Low Light (Event): Wide aperture (f/2-f/2.8) to gather light, Higher ISO (800-3200) to increase sensitivity, Medium shutter speed (e.g., 1/60s - 1/125s) (consider using flash or image stabilization).
+
+Fast Action Sports (Daylight): Medium aperture (f/4-f/5.6) for reasonable DOF, Low ISO (100-400) for good quality, Very fast shutter speed (e.g., 1/1000s - 1/4000s+) to freeze motion.
+
+Night Photography (Cityscape): Narrow aperture (f/8-f/11) for sharpness, Low ISO (100-400) for less noise, Slow shutter speed (e.g., seconds to minutes) for long exposure (tripod essential).
+
+Camera type/model
+
+Filters
+
+Color grading
+
+6. Text
+
+To achieve the best results, enclose the text in “double quotes” and keep the desired words or phrases short.
+
+7. Negative Prompt
+
+Negative prompting allows precise control over colors and content. While the main prompt shapes the general image, negative prompts refine it by filtering out unwanted elements, textures, or hues, helping to achieve a focused, polished result. This enables more control over the final image, ensuring that distractions are minimized and that the output aligns closely with your intended vision.
+
+Table content:
+| Major Race Category | Subcategories / Examples |
+| --- | --- |
+| African & African Diaspora | African American, Black, African |
+| Indigenous Peoples | American Indian, Native American, Indigenous, Native Australian |
+| Asian | Asian, Asian American, East Asian, South Asian, Southeast Asian, Indian, Japanese, Chinese, Korean, Pacific Islander |
+| European & White | Caucasian, European, White, Scandinavian, Mediterranean, Hispanic, Latino |
+
+Table content:
+| Category | Examples | Usage / Occasions |
+| --- | --- | --- |
+| Formal Wear | Ball gown, Wedding dress, Tuxedo, Formal suit, Graduation gown, Evening gown, Red carpet dress | Upscale events, award ceremonies, weddings, galas, and sophisticated movie scenes |
+| Business Attire | Business suit, Blazer, Business casual outfit, Skirt suit, Dress shirt & tie (when paired), Tailored trousers | Corporate settings, office scenes, interviews, and professional portrayals |
+| Casual Wear | Casual outfit, Pair of jeans, Hoodie, Sweater, T-shirt, Tank top, Casual dress, Denim jacket | Everyday looks, relaxed street style, informal photoshoots, and versatile day-to-day scenes |
+| Evening Wear | Cocktail dress, Evening dress, Summer dress, Party dress, Sheath dress | Cocktail parties, night events, red carpet appearances, and glamorous, sophisticated evening shoots |
+| Sports & Athletic Wear | Sports uniform, Athletic wear, Tracksuit, Gym wear, Joggers, Sweatpants | Sports events, training scenes, active lifestyle shoots, and energetic action sequences |
+| Thematic / Costumes | Halloween costume, Period costume, Fantasy costume, Sci-fi costume, Character costume, Masquerade costume, Steampunk costume | Character roles, themed events, cosplay, historical settings, and imaginative storytelling |
+| Traditional & Cultural | Kimono, Sari, Cheongsam, Hanbok, Dirndl, Kilt, Dashiki, Abaya, Toga, Lederhosen, Poncho | Cultural festivals, heritage events, period films, and authentic portrayals of diverse traditions |
+| Outerwear | Jacket, Leather jacket, Raincoat, Winter coat, Trench coat, Parka, Windbreaker, Bomber jacket, Anorak, Denim jacket | Layering for various weather conditions; adds edge and style to both casual and formal looks |
+| Swimwear | Bathing suit, Bikini, One-piece swimsuit, Swim trunks, Swimwear | Beach scenes, pool parties, summer events, vacation-themed shoots, and water-based settings |
+| Uniforms | School uniform, Sports uniform, Work uniform, Military uniform, Nurse uniform, Chef uniform, Prison uniform, Security uniform | Represents institutions or specific roles; ideal for educational, military, medical, culinary, or correctional facility scenes |
+| Streetwear & Urban | Streetwear, Urban outfit, Graphic tee, Cargo pants, Bomber jacket, Snapback cap (accessory), Trendy sneakers (footwear) | Modern, edgy looks for urban and lifestyle shoots; emphasizes contemporary and trend-driven style |
+| One-Piece & Jumpsuits | Jumpsuit, Romper, Overall, Coverall | Versatile, bold statements that can be dressed up or down; perfect for modern, creative looks |
+
+Table content:
+| Fashion Style Category | Fashion Style | Description/Key Characteristics |
+| --- | --- | --- |
+| Decades |  |  |
+|  | 20s (Roaring Twenties) | Flapper dresses (drop-waist, knee-length, embellished), Art Deco influence, headbands, T-strap shoes, bobbed hair, cloche hats, luxurious fabrics like silk and velvet. |
+|  | 30s (Golden Age of Hollywood) | Elegant, sophisticated, bias-cut gowns, longer hemlines, cinched waists, wide-leg trousers, fur accents, delicate jewelry, and the influence of Hollywood glamour. |
+|  | 40s (WWII & Post-War) | Utilitarian, practical suits for women (padded shoulders, A-line skirts), rationing-influenced designs, platform shoes, turbans, and a more restrained and mature silhouette. |
+|  | 50s (Post-War Boom) | Feminine, hourglass silhouette (full skirts, cinched waists), poodle skirts, sweater sets, pearls, cat-eye glasses, and a focus on domesticity and classic elegance. |
+|  | 60s (Youthquake & Mod) | Shift dresses, mini-skirts, A-line silhouettes, bold geometric patterns, bright colors, go-go boots, mod style, and a youthful, rebellious spirit. |
+|  | 70s (Bohemian & Disco) | Bohemian (flowing dresses, peasant blouses, bell-bottoms, fringe, earthy tones, and natural fabrics) and Disco (glitter, sequins, jumpsuits, platform shoes, bold patterns, and vibrant colors). |
+|  | 80s (Power Dressing & Excess) | Power dressing (shoulder pads, tailored suits, bold colors, and statement jewelry), athletic wear influence, neon colors, leggings, leg warmers, big hair, and a focus on extravagance and boldness. |
+|  | 90s (Grunge & Minimalist) | Grunge (flannel shirts, ripped jeans, combat boots, oversized sweaters, and a rebellious, anti-fashion attitude) and Minimalist (slip dresses, simple silhouettes, neutral colors, and a focus on clean lines and understated elegance). |
+|  | 00s (Y2K & Early 2000s) | Low-rise jeans, crop tops, mini-skirts, tracksuits, bright colors, logo mania, and a mix of pop culture, hip-hop, and early internet influences. |
+| Aesthetic/Mood |  |  |
+|  | Elegant | Refined, sophisticated, classic silhouettes, high-quality fabrics, tailored pieces, neutral or muted colors, and timeless appeal. |
+|  | Glamorous | Luxurious, opulent, attention-grabbing, statement pieces, bold colors, sequins, glitter, fur (faux or real), and a focus on high-shine and dramatic effect. |
+|  | Romantic | Soft, delicate, flowing fabrics, pastel colors, floral prints, lace, ruffles, embroidery, and a focus on femininity and gentle beauty. |
+|  | Edgy | Bold, unconventional, often dark colors (black, gray, deep reds), leather, studs, chains, asymmetrical cuts, and a rebellious, daring attitude. |
+|  | Minimalist/Minimal | Simple, clean lines, neutral color palette (black, white, gray, beige), understated elegance, focus on quality and functionality, and a "less is more" approach. |
+|  | Artsy | Creative, unique, expressive, unconventional combinations, bold colors and patterns, handcrafted or upcycled elements, and a focus on personal style and artistic expression. |
+|  | Fun/Funky | Playful, whimsical, vibrant colors, quirky patterns, unconventional accessories, and a lighthearted, joyful approach to fashion. |
+|  | Ethereal | Dreamy, delicate, flowing silhouettes, sheer fabrics, pastel or muted colors, lace, and a focus on lightness, airiness, and otherworldly beauty. |
+|  | Racy | Revealing, provocative, body-conscious silhouettes, bold cuts, sheer fabrics, and a focus on sensuality and allure. |
+|  | Dark Academia | Inspired by classic literature, European boarding schools, and libraries, featuring dark colors (burgundy, navy, forest green), tweed, plaid, blazers, and an intellectual, scholarly aesthetic. |
+|  | Cottage Core | Romanticized rural life, featuring flowy dresses, floral prints, natural fabrics (linen, cotton), embroidery, and a focus on comfort, nature, and a whimsical, nostalgic feel. |
+|  | Prairie | Similar to Cottagecore but often with more historical accuracy to 19th-century American prairie styles, featuring high necklines, long sleeves, ruffles, and modest silhouettes in cotton and linen. |
+|  | Grunge | Rebellious, anti-fashion, oversized and distressed clothing, flannel shirts, ripped jeans, combat boots, and a nonchalant, "undone" look. |
+|  | Goth | Dark, romantic, often Victorian or punk-inspired, featuring black clothing, lace, velvet, corsets, dramatic makeup, and a focus on mystery and the macabre. |
+|  | Neo(n) Goth | Modern take on Goth, incorporating neon colors, cyber elements, and futuristic touches into traditional Goth silhouettes. |
+|  | Pastel Goth | Soft Goth aesthetic, combining pastel colors (pink, lavender, baby blue) with traditional Goth elements like lace, studs, and dark makeup, creating a softer, more whimsical Goth look. |
+|  | Bubble Goth | Playful and colorful Goth style, incorporating bright colors, cartoonish elements, and a less severe, more lighthearted take on Goth fashion. |
+|  | NuGoth | Contemporary Goth style, blending traditional Goth elements with modern streetwear, minimalist touches, and often incorporating occult or witchy symbolism. |
+|  | Tiki Goth | Fusion of Tiki culture and Goth, combining Hawaiian shirts, floral prints, and tropical elements with dark colors, Goth makeup, and accessories. |
+|  | Cyberpunk | Futuristic, dystopian, tech-inspired, featuring dark colors, utilitarian clothing, techwear elements, neon accents, and a focus on functionality and urban survival. |
+|  | Dieselpunk | Retro-futuristic style inspired by the aesthetics of the interwar period and diesel-powered technology, featuring military and industrial influences, leather, goggles, and a rugged, utilitarian look. |
+|  | Steampunk | Victorian-era science fiction, combining Victorian clothing with industrial and futuristic elements, featuring corsets, gears, goggles, brass accents, and a fantastical, anachronistic aesthetic. |
+|  | Lunarpunk | Solarpunk's darker, moodier counterpart, focusing on themes of the moon, night, and shadows, often featuring blacks, silvers, and blues, with flowing silhouettes and ethereal elements. |
+|  | Solarpunk | Optimistic and sustainable futuristic style, focusing on renewable energy, nature integration, and bright, earthy colors, featuring flowing fabrics, natural textures, and botanical motifs. |
+|  | Avant-Garde | Experimental, unconventional, pushing boundaries, conceptual designs, sculptural silhouettes, and a focus on artistic innovation and challenging traditional fashion norms. |
+|  | Kitsch | Intentionally tacky, ironic, and over-the-top, featuring bright colors, clashing patterns, playful and often humorous elements, and a celebration of bad taste in a self-aware way. |
+|  | Creepy Cute | Juxtaposition of cute and macabre elements, featuring pastel colors, kawaii motifs combined with skulls, bats, or other spooky imagery, creating a darkly whimsical and unsettling aesthetic. |
+|  | Macabre | Focused on death, morbidity, and the grotesque, often featuring dark colors, skeletal motifs, decaying or distressed fabrics, and a theatrical, dramatic style. |
+|  | Nymphet | Controversial and often considered inappropriate style, characterized by infantilizing elements, youthful and suggestive clothing, and often associated with Lolita fashion (use with extreme caution and awareness of problematic connotations). |
+|  | Fetish | Style centered around fetish wear, often incorporating materials like latex, leather, PVC, harnesses, and bondage-inspired elements, emphasizing sexuality and body modification. |
+|  | Psychedelic | Inspired by the psychedelic era of the 1960s, featuring vibrant, swirling patterns, bold colors, flowing silhouettes, and a trippy, mind-bending aesthetic. |
+|  | Vaporwave | Internet-based aesthetic inspired by 90s internet culture, vaporwave music, and retro-futurism, featuring pastel colors, glitch art, geometric patterns, and a nostalgic, digital vibe. |
+|  | Neo-Y2K | Revival of early 2000s fashion trends, incorporating low-rise jeans, crop tops, bright colors, futuristic elements, and a nostalgic nod to the Y2K era. |
+|  | E-Girl/Boy | Internet-born style popular on TikTok and social media, featuring elements of anime, punk, and alternative fashion, often with layered clothing, dyed hair, and distinctive makeup. |
+|  | VSCO Girl/Boy | Casual, beachy, and wholesome style popularized by the VSCO app, featuring oversized t-shirts, denim shorts, Birkenstocks or Crocs, scrunchies, and a relaxed, California-inspired vibe. |
+| Subcultures |  |  |
+|  | Punk | Rebellious, anti-establishment, DIY aesthetic, featuring ripped clothing, safety pins, studs, leather, tartan, band tees, and bold hairstyles (mohawks, etc.). |
+|  | Afro-punk | Fusion of punk and Afrocentric styles, celebrating Black identity and rebellion, incorporating African patterns, natural hair, and punk elements. |
+|  | Hipster | Indie, vintage-inspired, often ironic, featuring skinny jeans, vintage clothing, ironic graphic tees, thick-rimmed glasses, and a focus on individuality and alternative culture. |
+|  | Grunge | (See Aesthetic/Mood - Grunge) |
+|  | Goth | (See Aesthetic/Mood - Goth) |
+|  | Metalhead/Heavy Metal | Dark, edgy, band t-shirts (metal bands), black jeans or leather pants, boots, chains, and a tough, rebellious image associated with heavy metal music culture. |
+|  | Rocker/Rock | Inspired by rock and roll music, featuring leather jackets, skinny jeans or leather pants, band tees, boots, and a cool, rebellious attitude. |
+|  | Psychobilly | Fusion of rockabilly, punk, and horror elements, featuring rockabilly clothing with horror-themed accents, dark makeup, and a vintage-meets-macabre aesthetic. |
+|  | Skinhead | Subculture with roots in working-class British youth culture, featuring sharp, minimalist style, including shaved heads or short hair, boots, braces, and a specific set of clothing items (Ben Sherman shirts, etc.). |
+|  | Teddy Boys/Girls | British subculture from the 1950s, known for Edwardian-inspired clothing, drape jackets, drainpipe trousers, and a rebellious, retro style. |
+|  | Beatnik | 1950s and 60s counterculture style associated with intellectualism and artistic expression, featuring black turtlenecks, berets, and a minimalist, bohemian look. |
+|  | Hippie | 1960s and 70s counterculture movement, featuring flowing, colorful clothing, tie-dye, floral prints, fringe, peace symbols, and a free-spirited, bohemian aesthetic. |
+|  | Rave/Raver | Electronic dance music culture, featuring bright neon colors, oversized clothing, comfortable and functional pieces for dancing, and often incorporating futuristic or cyber elements. |
+|  | Scene | Youth subculture style, featuring tight clothing, band tees (scene bands), bright colors, teased hair, and often incorporating elements of emo and punk fashion. |
+|  | Skate/Skater | Functional and comfortable style for skateboarding, featuring loose-fitting clothing, sneakers (skate shoes), hoodies, graphic tees, and a casual, streetwise look. |
+|  | Surf/Surfer (Californian) | Relaxed, beachy style inspired by surf culture, featuring board shorts, t-shirts, tank tops, flip-flops or sandals, and a casual, sun-kissed aesthetic. |
+|  | Techwear | Functional, utilitarian, and futuristic style focused on technical fabrics, practical features (pockets, straps), and a minimalist, often monochromatic aesthetic, designed for urban environments and functionality. |
+|  | Visual Kei | Japanese subculture characterized by elaborate makeup, hair, and costumes, often associated with rock and metal music, with various sub-styles within Visual Kei (Angura Kei, Fairy Kei, etc.). |
+|  | Gyaru | Japanese fashion subculture focused on a glamorous, tanned, and often exaggerated style, featuring bright makeup, dyed hair, platform shoes, and revealing clothing (though styles vary greatly within Gyaru). |
+|  | Lolita (Tokyo street style) | Japanese street fashion subculture inspired by Victorian and Rococo clothing, featuring doll-like dresses, petticoats, lace, ribbons, and various sub-styles (Gothic Lolita, Sweet Lolita, etc.). |
+|  | Kodona/Ouji/Boystyle | Androgynous Japanese fashion style, often inspired by Victorian boys' clothing, featuring tailored jackets, blouses, short trousers, and a dapper, boyish aesthetic. |
+|  | Decora (Tokyo street style) | Harajuku style characterized by excessive decorations, featuring bright colors, layers of accessories (hair clips, bracelets, necklaces), and a playful, maximalist aesthetic. |
+|  | Dasakawa (Tokyo street style) | "Lame-cute" style, intentionally unfashionable or awkward but in a cute or endearing way, often featuring mismatched clothing, deliberately uncool accessories, and a self-aware, ironic approach to fashion. |
+|  | Hadeko (“Hade” = gaudy) | "Gaudy" or "flashy" style, emphasizing bright colors, bold patterns, and excessive ornamentation, often seen in Harajuku street fashion. |
+|  | Ero-Kawaii (Tokyo street style) | "Erotic-cute" style, combining kawaii elements with suggestive or slightly provocative clothing, often seen in Japanese street fashion, blending innocence and sexuality. |
+|  | Kowa-Kawaii (Tokyo street style) | "Scary-cute" style, juxtaposing cute and frightening elements, often featuring kawaii motifs with horror or macabre themes, creating a darkly whimsical aesthetic. |
+|  | Black Loli (Tokyo street style) | Lolita style in primarily black clothing, without necessarily incorporating Goth elements, a darker and more subdued take on Lolita fashion. |
+|  | Ulzzang | Korean fashion style focused on a "best face" or "good-looking" aesthetic, characterized by flawless makeup, natural-looking clothing, and a focus on a clean, youthful, and polished appearance. |
+|  | Sapeurs | Subculture from Congo, characterized by dapper, flamboyant, and brightly colored suits, emphasizing elegance, style, and social commentary through fashion. |
+| Cultural/Geographic |  |  |
+|  | French | Chic, effortless, classic, featuring neutral colors (navy, black, white, beige), tailored pieces, Breton stripes, scarves, and a focus on understated elegance and timeless style. |
+|  | Italian | Luxurious, glamorous, bold, featuring high-quality fabrics, tailored silhouettes, statement pieces, and a focus on craftsmanship and sophisticated style. |
+|  | English | Traditional, classic, preppy, featuring tweed, tartan, tailored suits, brogues, and a refined, country-inspired aesthetic. |
+|  | Scandinavian Minimalist/Skandi | Functional, minimalist, neutral color palette (gray, black, white, beige), clean lines, comfortable and practical pieces, and a focus on simplicity and understated elegance. |
+|  | Alpine | Inspired by mountain and ski culture, featuring warm, functional clothing, knitwear, parkas,雪地靴, and a cozy, practical aesthetic. |
+|  | Bollywood | Inspired by Indian cinema, featuring vibrant colors, elaborate embroidery, sarees, lehengas, and a glamorous, theatrical style. |
+|  | Indian | Diverse and traditional Indian clothing, including sarees, salwar kameez, kurtas, and lehengas, with regional variations in fabrics, styles, and embellishments. |
+|  | Kampala Blend | Contemporary African fashion style originating from Kampala, Uganda, known for its vibrant colors, bold prints (often Ankara), and modern silhouettes. |
+|  | Ankara | West African fabric with vibrant, colorful, and often geometric prints, used in a wide variety of clothing styles, from traditional to modern. |
+|  | Ethnic/Tribal | Inspired by various indigenous cultures and tribal dress, featuring natural fabrics, earthy tones, tribal prints, and handcrafted jewelry and accessories. |
+|  | Latino | Diverse styles reflecting Latin American cultures, often featuring vibrant colors, ruffles, embroidery, and regional variations in traditional and modern clothing. |
+|  | Oriental | Inspired by East Asian cultures, featuring silk fabrics, embroidery, mandarin collars, cheongsams, kimonos, and a focus on elegant lines and delicate details. |
+|  | Celtic | Inspired by Celtic and Gaelic traditions, featuring natural fabrics (linen, wool), earthy tones, knotwork patterns, and flowing silhouettes, often with a historical or fantastical feel. |
+|  | Native American | Inspired by indigenous North American cultures, featuring natural materials (leather, suede, beads), earthy tones, fringe, and traditional patterns and motifs. |
+|  | Southwestern (American) | Inspired by the American Southwest, featuring denim, leather, suede, turquoise jewelry, cowboy boots, and a rugged, Western-inspired aesthetic. |
+|  | Gypsy | Romanticized and often stereotypical representation of Romani/Gypsy culture, featuring flowing skirts, layered clothing, scarves, coins, and a bohemian, free-spirited look (use with cultural sensitivity). |
+|  | Folkloric | Inspired by traditional folk costumes from various cultures, featuring embroidery, handcrafted details, natural fabrics, and regional variations in style and motifs. |
+| Lifestyle/Activity Based |  |  |
+|  | Casual | Relaxed, comfortable, everyday clothing, featuring jeans, t-shirts, sneakers, and a focus on practicality and ease of wear. |
+|  | Comfy | Prioritizing comfort above all else, featuring loungewear, oversized sweaters, leggings, soft fabrics, and a relaxed, cozy feel. |
+|  | Sporty | Athletic-inspired clothing, featuring activewear, sneakers, leggings, tracksuits, and a focus on functionality, performance, and a sporty, energetic look. |
+|  | Beach/Beach Bum/Surf | (See Subcultures - Surf/Surfer (Californian)) and Relaxed, lightweight clothing for warm weather, swimwear, cover-ups, sandals or flip-flops, and a casual, beach-ready vibe. |
+|  | Street | Urban, trendy, inspired by street style and city culture, featuring sneakers, hoodies, graphic tees, jeans or joggers, and a focus on current trends and individual expression. |
+|  | Business Casual | Smart casual attire appropriate for office environments, featuring chinos or dress pants, button-down shirts, blazers, loafers or dress shoes, and a polished yet relaxed professional look. |
+|  | Formal | Dressy, elegant attire for formal occasions, featuring suits, tuxedos, evening gowns, cocktail dresses, and a sophisticated, refined look. |
+|  | Resort (Alohawear/Resortwear) | Lightweight, breezy clothing for warm climates and vacation settings, featuring floral prints, linen, cotton, sundresses, and a relaxed, vacation-ready style. |
+|  | Utility | Functional, practical, durable clothing designed for work or outdoor activities, featuring sturdy fabrics, pockets, and a focus on practicality and utility. |
+|  | Equestrian | Inspired by horseback riding and equestrian sports, featuring riding boots, jodhpurs or breeches, tailored jackets, and a refined, sporty, and classic look. |
+|  | Safari | Practical and durable clothing for warm climates and outdoor adventures, featuring khaki, olive green, and earth tones, cargo pants, safari jackets, and a functional, adventurous aesthetic. |
+|  | Alpine | (See Cultural/Geographic - Alpine) |
+|  | Country/Western/Cowboy | (See Cultural/Geographic - Southwestern (American)) and Inspired by rural and Western American culture, featuring denim, plaid, cowboy boots, hats, and a rugged, outdoorsy aesthetic. |
+| Other Categories |  |  |
+|  | Androgynous | Blurring traditional gender lines in fashion, featuring clothing that is not distinctly masculine or feminine, often incorporating elements from both, androgynous silhouettes, and a focus on personal expression beyond gender norms. |
+|  | Masculine | Clothing traditionally associated with men's fashion, featuring tailored suits, classic menswear pieces, and a focus on sharp lines, structure, and traditionally masculine silhouettes. |
+|  | Feminine | Clothing traditionally associated with women's fashion, featuring dresses, skirts, blouses, and a focus on softer lines, delicate fabrics, and traditionally feminine silhouettes. |
+|  | Garconne | French term for a "boyish" woman, popular in the 1920s, featuring androgynous silhouettes, flattened chests, shorter hairstyles, and a rejection of overtly feminine styles. |
+|  | Ladylike | Refined, polished, and traditionally feminine style, featuring classic dresses, skirts, blouses, pearls, gloves, and a focus on elegance and proper etiquette. |
+|  | Modest | Clothing that adheres to modesty standards, often covering the body more fully, featuring longer hemlines, higher necklines, and looser fits, often associated with religious or cultural values. |
+|  | Preppy/Collegiate/Ivy League | Classic, clean-cut, and polished style associated with private schools and universities, featuring blazers, chinos, polo shirts, loafers, and a neat, traditional aesthetic. |
+|  | Hairband | Style primarily focused on wearing a hairband as a prominent accessory, often associated with preppy or feminine styles. |
+|  | Pinup | Retro style inspired by 1940s and 50s pin-up models, featuring high-waisted skirts or pants, fitted tops, dresses with sweetheart necklines, and a glamorous, playful, and curvy aesthetic. |
+|  | Rockabilly | 1950s rock and roll inspired style, featuring vintage dresses, poodle skirts, bowling shirts, cuffed jeans, and a retro, Americana aesthetic. |
+|  | Retro/Vintage | General term for styles inspired by past decades, often referring to clothing from the 1920s to 1980s, encompassing a wide range of specific vintage styles. |
+|  | Traditional | Clothing styles rooted in cultural heritage and long-standing customs, often varying widely by region and culture, representing established and time-honored dress practices. |
+|  | Trendy | Fashion that is currently popular and in vogue, constantly changing and reflecting current cultural and social influences, often driven by fast fashion and celebrity trends. |
+|  | Urban | Fashion inspired by city life and urban environments, often incorporating streetwear, sportswear, and elements of hip-hop and youth culture, emphasizing practicality, comfort, and a contemporary, streetwise aesthetic. |
+|  | Varsity | Inspired by American varsity and collegiate sports teams, featuring letterman jackets, bomber jackets, sweatshirts, sneakers, and a sporty, casual, and youthful look. |
+|  | Victorian | Inspired by the Victorian era (19th century), featuring long, elaborate dresses, corsets, bustles, lace, high necklines, and a formal, ornate, and historically-inspired aesthetic. |
+|  | Zoot Suiters | 1940s style associated with jazz culture, featuring oversized, high-waisted suits with wide-legged trousers and padded shoulders, known for its flamboyant and rebellious style. |
+|  | All-American | Classic, casual, and comfortable American style, featuring jeans, t-shirts, sneakers, denim jackets, and a relaxed, everyday aesthetic. |
+|  | Aristocrat | Luxurious, opulent, and high-class style associated with aristocracy and nobility, featuring tailored garments, expensive fabrics, fine jewelry, and a refined, elegant, and exclusive aesthetic. |
+|  | Babushka Bois | A playful and ironic style trend, particularly online, referencing Eastern European бабушка (babushka - grandmother) style, often featuring headscarves, layered clothing, and a humorous, kitschy take on traditional garments. |
+|  | Bon chic, bon genre (BCBG) | French term for "good style, good class," referring to a classic, preppy, and conservative style, associated with upper-middle-class French fashion, emphasizing quality, understated elegance, and timeless pieces. |
+|  | Bro (Bronies, Scrumbro, Snowbro, Surfer Bro, Tech Bro) | Umbrella term for various contemporary "bro" styles, often casual, sporty, and associated with specific subcultures (tech, surf, sports), featuring casual wear, athletic brands, and a relaxed, often branded aesthetic. |
+|  | California(n) | (See Lifestyle/Activity Based - Beach/Beach Bum/Surf and Subcultures - Surf/Surfer (Californian)) |
+|  | Collegiate | (See Other Categories - Preppy/Collegiate/Ivy League) |
+|  | Country Club | Refined and polished casual style associated with country clubs and leisure activities, featuring preppy elements, sportswear influences, and a relaxed yet elegant aesthetic. |
+|  | Dandy | Refined, elegant, and flamboyant style for men, emphasizing meticulous grooming, tailored suits, and a focus on sophisticated and often ornate details. |
+|  | Disco | (See Decades - '70s (Bohemian & Disco)) |
+|  | Eastern | (See Cultural/Geographic - Oriental) |
+|  | Emo | Emotionally expressive and often dark style, featuring skinny jeans, band tees (emo bands), black hair, eyeliner, and a melancholic, introspective aesthetic. |
+|  | Flapper | (See Decades - '20s (Roaring Twenties)) |
+|  | Gamine | French term for a "boyish" or "waifish" woman, characterized by youthful, playful, and slightly androgynous styles, often featuring simple silhouettes and a gamine charm. |
+|  | Gangster | Inspired by 1920s and 30s gangster style, featuring pinstripe suits, fedoras, and a sharp, often intimidating, and retro-masculine aesthetic. |
+|  | Geek chic | Embraces intellectualism and "geek" culture, featuring glasses (often thick-rimmed), button-down shirts, cardigans, and a smart, quirky, and often academic-inspired style. |
+|  | Ghetto (fabulous)/Hip-Hop | (See Subcultures - Hip-Hop) and Urban style, often featuring streetwear, sportswear, sneakers, and a bold, urban, and often logo-heavy aesthetic, sometimes incorporating luxurious elements ("ghetto fabulous"). |
+|  | Girl next door | Wholesome, approachable, and casual style, featuring jeans, t-shirts, sweaters, and a comfortable, everyday, and relatable aesthetic. |
+|  | Glam Rock | Glamorous and flamboyant rock and roll style from the 1970s, featuring platform shoes, glitter, sequins, bold makeup, and androgynous elements, associated with glam rock music. |
+|  | Harajuku | Umbrella term for diverse and highly individualistic street styles originating in the Harajuku district of Tokyo, encompassing many sub-styles (Decora, Lolita, Visual Kei, etc.). |
+|  | Hip-hop | (See Subcultures - Hip-Hop) and Urban style, featuring streetwear, sportswear, sneakers, tracksuits, and a bold, urban, and often logo-heavy aesthetic, influenced by hip-hop music and culture. |
+|  | House | Style associated with house music culture, featuring comfortable, often sporty or casual clothing suitable for dancing, and a relaxed, energetic vibe. |
+|  | Indie | Independent and alternative style, often drawing inspiration from indie music and art, featuring vintage or thrifted clothing, unique pieces, and a non-mainstream, individualistic aesthetic. |
+|  | Industrial | Inspired by industrial environments and workwear, featuring utilitarian clothing, durable fabrics, dark colors, and a functional, often edgy, and sometimes dystopian aesthetic. |
+|  | Ivy League | (See Other Categories - Preppy/Collegiate/Ivy League) |
+|  | Kawaii | (See Subcultures - Kawaii (Japanese street fashion)) |
+|  | Kodona/Ouji/Boystyle | (See Subcultures - Kodona/Ouji/Boystyle) |
+|  | Kooky | Eccentric, quirky, and unconventional style, featuring unusual combinations, playful elements, and a deliberate departure from mainstream fashion norms. |
+|  | Lagenlook | German term for "layered look," featuring loose, flowing, and layered clothing, often in natural fabrics and neutral colors, emphasizing comfort and artistic draping. |
+|  | Lolita | (See Subcultures - Lolita (Tokyo street style)) |
+|  | Mad Max | Post-apocalyptic style inspired by the Mad Max film franchise, featuring distressed and rugged clothing, leather, armor-like elements, and a survivalist, dystopian aesthetic. |
+|  | Military | Inspired by military uniforms, featuring camouflage patterns, khaki, olive green, utilitarian details (pockets, straps), and a functional, structured, and often authoritative look. |
+|  | Mod | 1960s British youth subculture style, featuring sharp, tailored clothing, clean lines, scooters, and a stylish, modern, and often androgynous aesthetic. |
+|  | Mori Girl | Japanese fashion subculture focused on a "forest girl" aesthetic, featuring natural fabrics, layered dresses, earthy tones, and a whimsical, nature-inspired, and fairytale-like style. |
+|  | Nautical | Inspired by seafaring and nautical themes, featuring navy and white stripes, sailor collars, anchor motifs, and a classic, maritime-inspired aesthetic. |
+|  | Neo-Edwardian | Revival of Edwardian era fashion (early 20th century), featuring long skirts, high necklines, and a romantic, historical aesthetic. |
+|  | Normcore | Intentionally unremarkable and ordinary style, rejecting trends and embracing plain, comfortable clothing, and a deliberately "normal" or anti-fashion aesthetic. |
+|  | Otome Kei | (Sub-style of Visual Kei) - "Girlish style," softer and more feminine Visual Kei style, featuring pastel colors, lace, and a more romantic and less aggressive aesthetic than other Visual Kei styles. |
+|  | Phat | 1990s and early 2000s hip-hop and streetwear style, featuring oversized clothing, baggy jeans, sneakers, and a bold, urban, and often logo-heavy aesthetic. |
+|  | Pinup | (See Other Categories - Pinup) |
+|  | Pop | Bright, colorful, and playful style inspired by pop music and culture, featuring vibrant colors, bold patterns, and trendy, youthful pieces. |
+|  | Pop Punk | Fusion of pop and punk styles, featuring elements of both pop and punk fashion, such as band tees, sneakers, and a youthful, energetic, and slightly rebellious aesthetic. |
+|  | Posh | Elegant, luxurious, and sophisticated style, often associated with wealth and high society, featuring designer brands, tailored clothing, and a polished, refined aesthetic. |
+|  | Post-apocalyptic road warrior | (See Aesthetic/Mood - Mad Max) |
+|  | Power Dressing | (See Decades - '80s (Power Dressing & Excess)) |
+|  | Preppy | (See Other Categories - Preppy/Collegiate/Ivy League) |
+|  | Punk | (See Subcultures - Punk) |
+|  | Rasta | Inspired by Rastafarian culture, featuring red, gold, and green colors, natural fabrics, and often incorporating Rasta symbolism and imagery. |
+|  | Retro | (See Other Categories - Retro/Vintage) |
+|  | Rockabilly | (See Other Categories - Rockabilly) |
+|  | Romantic | (See Aesthetic/Mood - Romantic) |
+|  | Rustic | Natural, earthy, and comfortable style, featuring natural fabrics (linen, cotton, wool), earthy tones, and a relaxed, unrefined aesthetic, often inspired by rural or country living. |
+|  | Scene | (See Subcultures - Scene) |
+|  | Scrumbro | A specific type of "bro" style, often associated with a slightly disheveled or "scruffy" look, still within the casual, sporty "bro" aesthetic. |
+|  | Seapunk | Internet-based microgenre aesthetic, featuring 90s internet imagery, ocean themes, and a surreal, aquatic, and often vaporwave-adjacent style. |
+|  | Skate/Skater | (See Subcultures - Skate/Skater) |
+|  | Sloane Ranger | British upper-class style, classic and conservative, featuring tailored pieces, pearls, and a refined, traditional aesthetic. |
+|  | Snowbro | A specific type of "bro" style associated with snowboarding and winter sports culture, featuring sporty, functional winter wear, and a relaxed, outdoorsy vibe. |
+|  | Softboys | Contemporary style trend, featuring soft, pastel colors, oversized sweaters, and a gentle, sensitive, and often "artsy" aesthetic, contrasting with traditional masculinity. |
+|  | Soulies | British youth subculture from the 1960s, associated with soul music, featuring sharp, stylish clothing, and a sophisticated, mod-influenced aesthetic. |
+|  | Sporty | (See Lifestyle/Activity Based - Sporty) |
+|  | Street | (See Lifestyle/Activity Based - Street) |
+|  | Surf/Surfer Bro | (See Subcultures - Surf/Surfer (Californian)) and Bro (Bronies, Scrumbro, Snowbro, Surfer Bro, Tech Bro) |
+|  | Tech Bro | (See Bro (Bronies, Scrumbro, Snowbro, Surfer Bro, Tech Bro)) |
+|  | Techwear | (See Subcultures - Techwear) |
+|  | Teddy Boys/Girls | (See Subcultures - Teddy Boys/Girls) |
+|  | Tomboy | Androgynous style for women, featuring traditionally masculine clothing, comfortable and practical pieces, and a rejection of overtly feminine styles, emphasizing comfort and functionality. |
+|  | Trendy | (See Other Categories - Trendy) |
+|  | Ulzzang | (See Subcultures - Ulzzang) |
+|  | Urban | (See Lifestyle/Activity Based - Urban) |
+|  | Varsity | (See Other Categories - Varsity) |
+|  | Victorian | (See Other Categories - Victorian) |
+|  | Vintage | (See Other Categories - Retro/Vintage) |
+|  | Western | (See Lifestyle/Activity Based - Country/Western/Cowboy) |
+|  | Y2K | (See Decades - '00s (Y2K & Early 2000s)) |
+|  | Zoot Suiters | (See Other Categories - Zoot Suiters) |
+
+Table content:
+| Category | Term/Technique | Description |
+| --- | --- | --- |
+| Camera Angles | Eye-Level Shot | The camera is positioned at the subject’s eye level for a neutral, natural perspective. |
+|  | High-Angle Shot | The camera is placed above the subject, making it appear smaller, vulnerable, or insignificant. |
+|  | Low-Angle Shot | The camera is positioned below the subject, lending it power, dominance, or heroism. |
+|  | Bird’s Eye View | An overhead shot taken directly from above, offering a broad and detached perspective of the scene. |
+|  | Worm’s Eye View | A shot from ground level looking upward, emphasizing scale, drama, or grandeur. |
+|  | Dutch Tilt/Canted Angle | The camera is tilted to one side, creating a sense of disorientation, unease, or tension. |
+| Shot Types | Extreme Wide Shot (EWS) | Captures a vast environment, often used as an establishing shot to situate the audience in the location and context. |
+|  | Wide Shot (WS) | Shows the subject within a large portion of the background, establishing the environment and spatial relationships. |
+|  | Long/Full Shot | Frames the subject from head to toe, emphasizing their presence and movement within the space. |
+|  | Master Shot | A comprehensive shot that captures the entire scene and all characters, establishing spatial relationships and overall action. |
+|  | Medium Shot (MS) | Frames the subject from the waist up, balancing detail with the surrounding context. |
+|  | Medium Close-Up (MCU) | Focuses on the subject from the chest to the head, highlighting facial expressions and subtle details. |
+|  | Close-Up (CU) | A tight shot that emphasizes a subject’s face or a specific object, conveying emotion and detail. |
+|  | Extreme Close-Up (ECU) | Isolates a very specific detail (e.g., an eye, a hand) to intensify emotion or dramatic effect. |
+|  | Over-the-Shoulder Shot (OTS) | Filmed over a character’s shoulder, establishing perspective and connection between characters in conversation. |
+|  | Two-Shot | Includes two characters in the frame, emphasizing their relationship or interaction. |
+|  | Point-of-View Shot (POV) | Presents the scene from a character’s perspective, immersing the viewer in their experience. |
+|  | Static Shot | The camera remains fixed while the scene unfolds, allowing the action or composition to speak for itself. |
+|  | Establishing Shot | Sets the scene by showing the environment and context—often an extreme wide or wide shot—to orient the viewer to the location and time. |
+|  | Insert Shot | A detailed close-up of an object or detail that provides narrative context without showing the full scene. |
+|  | Cutaway Shot | Briefly diverts from the main action to show related detail or context, then returns to the primary scene. |
+|  | Cut-In Shot | A close-up that focuses on a part of the subject or a specific detail within the scene, often to emphasize an important action or object. |
+|  | American Shot (Medium Long Shot) | Frames the subject from mid-thigh up, a style popularized by Westerns to reveal both character and surroundings. |
+|  | Macro Shot | An extremely close-up shot capturing minute details, often revealing textures or features not normally visible. |
+|  | Reverse Angle Shot | Presents the perspective from the opposite side—commonly used in dialogue scenes—to show a character’s reaction or an alternative viewpoint. |
+|  | Aerial Shot | Captured from an elevated platform (e.g., drone or helicopter), this shot provides sweeping, expansive views of the environment. |
+| Framing | Rule of Thirds | Divides the frame into a 3×3 grid so key elements are positioned along the lines or intersections, creating a balanced and dynamic composition. |
+|  | Centered Framing | Place the subject in the center of the frame to emphasize stability, focus, or symmetry. |
+|  | Symmetrical Framing | Uses mirror-like balance within the frame, creating harmony and order. |
+|  | Asymmetrical Framing | Off-centers the subject intentionally to introduce tension or visual interest. |
+|  | Leading Lines | Utilizes natural or constructed lines in the scene to direct the viewer’s eye toward the subject or a focal point. |
+|  | Negative Space | Surrounds the subject with uncluttered space to enhance focus and create a strong visual impact. |
+|  | Frame within a Frame | Incorporates elements like windows, arches, or doorways to create a secondary frame that emphasizes the subject and adds depth. |
+|  | Golden Ratio Composition | Applies the natural proportions of the golden ratio to arrange elements in a balanced and aesthetically pleasing way. |
+|  | Lead Room | Provides extra space in the direction of the subject’s gaze or movement, ensuring a dynamic yet balanced composition. |
+| Focus Techniques | Deep Focus | Keeps all elements in the frame sharp and in focus, allowing multiple layers of action to be seen simultaneously. |
+|  | Shallow Focus | Isolates the subject by rendering the background (or foreground) out of focus, directing the viewer’s attention to key details. |
+|  | Rack Focus | Shifts the focus from one subject to another within the same shot, guiding the viewer’s attention between elements in the scene. |
+|  | Selective Focus | Intentionally focuses on a specific element while allowing surrounding areas to blur, enhancing creative or narrative emphasis. |
+|  | Split Diopter | Uses a split diopter lens to maintain two distinct focal planes in a single shot, keeping both the foreground and background sharply detailed. |
+| Camera Movements | Pan | Rotates the camera horizontally to sweep across a scene, following the action or revealing new information. |
+|  | Tilt | Moves the camera vertically (up or down) along a subject, often to reveal height or vertical movement. |
+|  | Dolly | Physically moves the camera closer to or further from the subject along a track, creating smooth, controlled motion and spatial depth. |
+|  | Tracking Shot | Follows a moving subject through the scene while maintaining a consistent composition, often using tracks or rails. |
+|  | Trucking | Moves the camera laterally (side-to-side) to follow the subject’s motion along a horizontal plane. |
+|  | Pedestal | Moves the camera vertically (up or down) without tilting, shifting the perspective while keeping the lens level. |
+|  | Zoom | Adjusts the focal length to make the subject appear closer or further away without physically moving the camera. |
+|  | Handheld | The camera is operated manually, resulting in a slightly shaky or dynamic effect that can add realism or tension. |
+|  | Steadicam | Uses a stabilization system to allow smooth, fluid camera movement even while the operator is in motion. |
+|  | Crane/Jib Shot | Mounted on a crane or jib, this shot captures sweeping, dramatic movements—often moving vertically and horizontally—to reveal expansive scenes. |
+|  | Arc Shot | The camera moves in a curved path around the subject, providing a dynamic and immersive perspective. |
+|  | 360-Degree Shot | The camera completes a full circle around the subject, offering an all-encompassing and often disorienting view of the scene. |
+|  | Dolly Zoom | Combines dolly movement with a simultaneous zoom in the opposite direction, keeping the subject the same size while distorting the background for dramatic effect. |
+|  | Whip Pan | A rapid, blurred pan that quickly shifts focus between subjects, often used to create energetic transitions or sudden reveals. |
+| Additional Techniques | Time-Lapse | Captures frames at a lower rate than normal playback, compressing time to show slow processes in a dynamic, fast-forward sequence. |
+|  | Slow Motion | Films at a higher frame rate than playback, making time appear slower and emphasizing details or action. |
+|  | Bullet Time | Freezes or slows down time while the camera moves around the subject, creating a surreal, frozen-moment effect popularized in modern cinema. |
+|  | Tilt-Shift | Uses a specialized lens to create a miniature effect by selectively blurring parts of the image, often altering the perceived scale of the scene. |
+|  | Motion Control Shot | Employs computer-controlled camera systems to achieve precise, repeatable movements—ideal for complex or high-precision sequences. |
+
+Table content:
+| Lighting Type | Category | Description | Common Use/Effect |
+| --- | --- | --- | --- |
+| Natural Light | Natural | Light derived from natural sources, primarily the sun. |  |
+| Direct Sunlight | Natural | Unobstructed sunlight, creating strong highlights and shadows. | High contrast, vibrant colors, can be harsh; often used for daytime exteriors, bright and energetic scenes. |
+| Golden Hour | Natural | Soft, warm light occurring shortly after sunrise and before sunset, known for its golden hue. | Romantic, warm, flattering light; ideal for portraits, landscapes, and creating a magical or nostalgic atmosphere. |
+| Twilight | Natural | Soft, cool light occurring after sunset and before complete darkness, often with a bluish tone. | Mysterious, moody, serene atmosphere; used for dramatic night scenes, transitions, and creating a sense of calm or unease. |
+| Overcast Lighting | Natural | Diffused light from the sun when the sky is covered with clouds, resulting in soft, even illumination with minimal shadows. | Soft, even, shadowless light; excellent for portraits, product shots, and when detail is important without harsh shadows. |
+| Natural Light (General) | Natural | Broad term for any light originating from nature, often implying available daylight without specific qualities defined. | Versatile depending on time of day and weather; can be manipulated with reflectors and diffusers. |
+| Artificial Light | Artificial | Light created by artificial sources, such as lamps, LEDs, and strobes. |  |
+| Studio Lighting | Artificial | Controlled lighting set up in a studio environment, often using various types of lights and modifiers for precise control. | Highly controlled, consistent, and repeatable lighting; used for portraits, product photography, and studio filmmaking where specific looks are required. |
+| Incandescent Lighting | Artificial | Warm, yellowish light produced by traditional light bulbs using a heated filament. | Warm, cozy, inviting light; often used for interiors to create a homely or vintage feel, though less energy-efficient and hotter than other options. |
+| Fluorescent Lighting | Artificial | Cool, often bluish or greenish light produced by fluorescent lamps, known for their energy efficiency. | Can be harsh and flat if not diffused; sometimes associated with sterile or office environments, but modern fluorescent lights can be warmer and more color-accurate. |
+| Neon Lighting | Artificial | Bright, colorful light emitted by neon or other gases in glass tubes, often used for signs and decorative purposes. | Vibrant, saturated colors, retro or urban feel; used for stylized visuals, night scenes, and adding a distinctive color element. |
+| Flash Lighting | Artificial | Intense, brief bursts of light from electronic flashes or strobes, used to freeze motion or provide powerful illumination. | Powerful, controllable bursts of light; used in photography for portraits, action shots, and overcoming low-light situations, and in filmmaking for special effects or stylized looks. |
+| Spotlight | Artificial | Focused, intense beam of light, often used to highlight a specific subject or area. | Dramatic highlights, emphasizes a subject, creates pools of light and shadow; used for stage lighting, product highlights, and dramatic cinematic effects. |
+| Strobe Lighting | Artificial | Rapid, rhythmic flashes of light, often used to create motion effects or for stop-motion animation. | Dynamic, rhythmic effects, can freeze motion in a sequence; used for special effects, music videos, and creating a sense of energy or disjointed time. |
+| Candlelight | Artificial | Soft, warm, flickering light produced by candles, creating a very intimate and low-light environment. | Intimate, romantic, mysterious, low-light atmosphere; used for period pieces, dramatic scenes, and creating a sense of warmth and intimacy in low-light settings. |
+| Lighting Quality & Style | Stylistic/Effect | Light described by its qualities and the stylistic effect it creates, often achievable with various light sources and modifiers. |  |
+| Soft Light | Stylistic/Effect | Diffused, gentle light that minimizes shadows, creating a smooth and even illumination. | Flattering, forgiving, minimizes skin imperfections; ideal for portraits, beauty shots, and creating a gentle, pleasing look. |
+| Hard Light | Stylistic/Effect | Direct, undiffused light that creates strong, well-defined shadows and highlights, emphasizing texture and form. | Dramatic, edgy, emphasizes texture and form, high contrast; used for dramatic portraits, film noir styles, and creating a sense of tension or realism. |
+| High-Key Lighting | Stylistic/Effect | Lighting style that aims to reduce the lighting ratio, meaning there is very little contrast between the bright and dark areas of the image. Often uses soft light sources. | Bright, optimistic, airy, low contrast; commonly used in comedies, sitcoms, and product advertising to create a cheerful and clean aesthetic. |
+| Low-Key Lighting | Stylistic/Effect | Lighting style that uses strong contrasts between light and dark, with a dominant dark tone. Often uses hard light sources. | Dramatic, moody, mysterious, high contrast; commonly used in thrillers, horror, film noir, and to create suspense and drama. |
+| Cinematic Lighting | Stylistic/Effect | A broad term encompassing lighting techniques used in filmmaking to create a visually appealing and emotionally resonant image. | Varies widely depending on the desired style and genre; often involves layering light, using motivated lighting, and creating depth and atmosphere. |
+| Dramatic Lighting | Stylistic/Effect | Lighting designed to create a strong emotional impact, often using high contrast, shadows, and focused light sources. | Intense, emotional, powerful, emphasizes drama and tension; used in genres like drama, thriller, and horror to heighten emotional impact. |
+| Backlit | Stylistic/Effect | Light source placed behind the subject, silhouetting the subject and separating it from the background. | Creates silhouette, halo effect, separates subject from background, adds depth; used for dramatic portraits, silhouettes, and highlighting hair or outlines. |
+| Rim Lighting | Stylistic/Effect | Light that grazes the edge of the subject, creating a bright outline or "rim" that separates it from the background, often from the side or back. | Subtler than backlight, still defines edges and separates subject; adds dimension and shape, often used in portraits and to enhance three-dimensionality. |
+| Side Lighting | Stylistic/Effect | Light source positioned to the side of the subject, creating shadows on one side and highlights on the other, emphasizing form and texture. | Sculptural, emphasizes form and texture, creates depth and dimension; versatile and commonly used in portraits, still life, and product photography. |
+| Silhouette Lighting | Stylistic/Effect | Subject is unlit or very dimly lit from the front, appearing as a dark shape against a brightly lit background. | Mysterious, dramatic, emphasizes shape and outline, conceals details; used for dramatic effect, anonymity, and creating a sense of mystery. |
+| Ambient Light | Stylistic/Effect | Existing light in a scene, whether natural or artificial, often used as a base level of illumination before adding other lighting. | Naturalistic, realistic, sets the overall mood of the scene; often supplemented with other lighting to shape and enhance the image. |
+| Front Light (or Flat Light) |  |  |  |
+| Loop Lighting |  |  |  |
+| Broad Lighting |  |  |  |
+| Short Lighting |  |  |  |
+| Butterfly Lighting |  |  |  |
+| Split Lighting |  |  |  |
+| Rembrandt Lighting |  |  |  |
+| Indoor Lighting |  |  |  |
+| Portrait Lighting |  |  |  |
+| Fill Lighting |  |  |  |
+| Softbox Lighting |  |  |  |
+| Semi-diffuse lighting |  |  |  |
+| Parting light, contour, semi-backlight or hair light |  |  |  |
+| Semi-lateral light |  |  |  |
+| Overhead or chopped light |  |  |  |
+| Nadir or low angle light |  |  |  |
+
+Table content:
+| Lens Type | Category | Description | Common Use/Effect |
+| --- | --- | --- | --- |
+| By Focal Length | Focal Length | Categorization based on the lens's focal length, which determines the angle of view and magnification. |  |
+| Wide-Angle Lens | Focal Length | Short focal length (typically under 35mm for full-frame), providing a broad angle of view. | Capturing expansive scenes (landscapes, interiors), emphasizing space, creating a sense of immersion, can exaggerate perspective and make subjects appear smaller. |
+| Standard Lens | Focal Length | Focal length close to "normal" human perspective (around 50mm for full-frame), offering a natural field of view without significant distortion. | General purpose, versatile for many subjects (portraits, street photography, everyday scenes), provides a realistic perspective, often a good starting point for new photographers. |
+| Telephoto Lens | Focal Length | Long focal length (typically over 70mm for full-frame), narrow angle of view, magnifies distant subjects. | Bringing distant subjects closer (wildlife, sports, paparazzi shots), shallow depth of field, background compression, can isolate subjects effectively. |
+| Prime Lens | Focal Length | Fixed focal length, often known for high optical quality, sharpness, and wider maximum apertures. | Superior image quality, often faster apertures (better in low light, shallower depth of field), generally smaller and lighter than zooms, encourages deliberate composition. |
+| Zoom Lens | Focal Length | Variable focal length, offering a range of focal lengths in a single lens, providing versatility and convenience. | Versatility, flexibility to adapt to different shooting situations without changing lenses, convenient for travel and fast-paced shooting, may sacrifice some optical quality compared to primes. |
+| By Zoom Type | Zoom Capability | Categorization based on the type of zoom mechanism and its effect. |  |
+| Optical Zoom Lens | Zoom Capability | Zoom achieved by physically moving lens elements, maintaining image quality throughout the zoom range. | True zoom, maintains image resolution and quality, preferred for professional photography and filmmaking where quality is paramount. |
+| Digital Zoom Lens | Zoom Capability | Zoom achieved by digitally cropping into the image sensor, resulting in a loss of image quality and resolution as you zoom in. | Convenient in compact cameras and smartphones, but degrades image quality, generally avoided in professional work unless absolutely necessary. |
+| By Special Feature | Special Features | Lenses designed with specific features for particular photographic needs and creative effects. |  |
+| Macro Lens | Special Features | Designed for extremely close-up photography, capable of capturing images at a 1:1 magnification ratio or greater. | Capturing minute details of small subjects (insects, flowers, textures), very shallow depth of field at close distances, specialized for extreme close-up work. |
+| Tilt-Shift Lens | Special Features | Allows for tilting and shifting the lens plane relative to the image sensor, used for perspective control and selective focus effects. | Correcting perspective distortion (architecture photography), creating miniature effects, selective focus with unique plane of focus control, specialized for architectural and creative work. |
+| Fisheye Lens | Special Features | Extremely wide-angle lens (often 180 degrees or more), producing strong visual distortion and a circular image. | Highly distorted, ultra-wide perspective, creative effect for unusual viewpoints, often used in skateboarding, extreme sports, and artistic expression. |
+| Portrait Lens | Special Features | Typically a short telephoto or standard lens (e.g., 85mm, 50mm for full-frame) optimized for flattering portraits. | Flattering perspective for faces, often with wide apertures for shallow depth of field and pleasing bokeh, designed to create aesthetically pleasing portraits. |
+| Cine Lens | Special Features | Lenses specifically designed for filmmaking, often with features like geared focus and aperture rings, clickless aperture, and robust build. | Optimized for video production, smooth and precise manual control, durable, often color-matched for consistent look across different lenses in a film project. |
+| Anamorphic Lens | Special Features | Squeezes a wider horizontal field of view onto the sensor, and then desqueezed in post-production to create a widescreen cinematic aspect ratio. | Creates a widescreen cinematic look (e.g., 2.39:1) with distinctive horizontal flares and oval bokeh, often used for epic and dramatic films. |
+| By Aperture | Aperture | Categorization based on the lens's maximum aperture, which affects light gathering ability and depth of field. |  |
+| Fast Lens | Aperture | Lens with a wide maximum aperture (e.g., f/1.4, f/1.8, f/2.8), allowing more light to enter the lens. | Excellent low-light performance, shallow depth of field, bright viewfinder image, often prime lenses, desirable for portraits, low-light photography, and creating bokeh. |
+| Slow Lens | Aperture | Lens with a smaller maximum aperture (e.g., f/4, f/5.6, f/8), letting in less light. | Greater depth of field, often zoom lenses or kit lenses, more affordable, suitable for well-lit conditions, landscapes, and situations where deep focus is needed. |
+| By Mount & Sensor | Compatibility | Categorization based on lens mount and sensor size compatibility. |  |
+| Full-Frame Lens | Compatibility | Designed to cover a full-frame sensor (35mm), also usable on crop-sensor cameras (with a crop factor). | Maximizes sensor area utilization on full-frame cameras, wider field of view compared to crop lenses on crop sensors, often higher quality and more expensive. |
+| Crop-Sensor Lens | Compatibility | Designed for crop-sensor cameras (APS-C, etc.), smaller and lighter than full-frame lenses, generally more affordable. | Optimized for crop-sensor cameras, smaller and lighter, more affordable, effective reach is increased due to crop factor (telephoto effect), may not be usable on full-frame cameras. |
+
+Table content:
+| Setting | Aspect Controlled | Types/Ranges | Description & Function | Effect on Image | Common Combinations & Uses |
+| --- | --- | --- | --- | --- | --- |
+| Aperture (f-stop) | Light & Depth of Field | f/1.2, f/1.4, f/2, f/2.8, f/4, f/5.6, f/8, f/11, f/16, f/22, f/32, f/64 (and beyond) <br> (Smaller f-number = wider aperture, Larger f-number = narrower aperture) | Description: The adjustable opening in the lens that controls how much light passes through to the sensor. <br> Function: Regulates light intensity and depth of field. Wider aperture (smaller f-number) lets in more light; narrower aperture (larger f-number) lets in less light. | Light: Wider aperture = brighter image, Narrower aperture = darker image. <br> Depth of Field (DOF): Wider aperture = shallower DOF (background blur), Narrower aperture = deeper DOF (more in focus). | Wide Aperture (f/1.2 - f/2.8): <br> - Portraits with blurred backgrounds. <br> - Low-light conditions. <br> - Isolating subject from background. <br> Medium Aperture (f/4 - f/8): <br> - General photography, good balance of sharpness and DOF. <br> - Group portraits, street photography. <br> Narrow Aperture (f/11 - f/32+): <br> - Landscapes with everything in focus. <br> - Bright sunlight conditions. <br> - Architectural photography. |
+| ISO | Light Sensitivity & Noise | 50, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600, 51200, 102400, and higher <br> (Lower number = lower sensitivity, Higher number = higher sensitivity) | Description: Sensor's sensitivity to light. <br> Function: Amplifies the signal from the sensor, making the image brighter in low light. Lower ISO is less sensitive; higher ISO is more sensitive. | Light: Lower ISO = less sensitive to light (darker image if other settings unchanged), Higher ISO = more sensitive to light (brighter image). <br> Noise: Lower ISO = less noise/grain, Higher ISO = more noise/grain (especially at very high ISOs). | Low ISO (50-200): <br> - Bright daylight conditions. <br> - Landscapes, portraits in good light. <br> - Studio photography. <br> - Highest image quality, minimal noise. <br> Medium ISO (400-800): <br> - Indoors, cloudy days. <br> - General purpose, good balance of brightness and noise. <br> High ISO (1600-6400+): <br> - Low-light situations (indoors, night). <br> - Concerts, dimly lit events. <br> - Acceptable noise levels on modern cameras, but quality can degrade at very high ISOs. |
+| Shutter Speed | Light & Motion | 30s, 15s, 8s, 4s, 2s, 1s, 1/2, 1/4, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250, 1/500, 1/1000, 1/2000, 1/4000, 1/8000s and faster <br> (Longer duration = slower shutter speed, Shorter duration = faster shutter speed) | Description: The length of time the camera's shutter is open, exposing the sensor to light. <br> Function: Controls the duration of light exposure and how motion is captured. Slower shutter speed allows more light and captures motion blur; faster shutter speed allows less light and freezes motion. | Light: Slower shutter speed = brighter image, Faster shutter speed = darker image. <br> Motion: Slower shutter speed = motion blur (moving subjects blurred), Faster shutter speed = freezes motion (moving subjects sharp). | Slow Shutter Speed (1s - 30s+): <br> - Low-light conditions. <br> - Night photography, light trails. <br> - Motion blur for water, clouds, etc. <br> - Requires tripod to avoid camera shake. <br> Medium Shutter Speed (1/30s - 1/250s): <br> - Everyday photography, walking subjects. <br> - Some motion blur possible, but can still freeze moderate movement. <br> Fast Shutter Speed (1/500s - 1/8000s+): <br> - Bright daylight conditions. <br> - Sports, fast-action photography. <br> - Freezing fast motion (birds in flight, water splashes). |
+
+Table content:
+| Camera Type Category | Specific Camera Type | Brand(s) | Representative Models | Key Features/Characteristics | Typical Uses |
+| --- | --- | --- | --- | --- | --- |
+| Mirrorless Cameras | Interchangeable Lens | Sony, Canon, Fujifilm, Nikon, Panasonic, Olympus (OM System), Leica, Sigma, Hasselblad (Medium Format) | Sony Alpha series (a7, a9, a1, a6000, a7C), Canon EOS R series (R5, R6, R7, R8, R10), Fujifilm X Series (X-T5, X-H2S, X-S20, X100VI), Nikon Z series (Z9, Z8, Z7, Z6, Z5, Z fc), Panasonic Lumix S & G series, OM System OM-1, Leica SL, CL, TL, Sigma fp, Hasselblad X2D 100C | Features: Electronic Viewfinder (EVF), often smaller and lighter than DSLRs, advanced autofocus systems, excellent video capabilities, variety of sensor sizes (Full-Frame, APS-C, Micro Four Thirds, Medium Format). <br> Range: Entry-level to professional, diverse price points. | Uses: Photography (various genres), Filmmaking (indie to professional), Hybrid content creation (photo & video), Travel, Street Photography, Vlogging, Professional studio work (especially Full-Frame and Medium Format). |
+| DSLR Cameras | Interchangeable Lens | Canon, Nikon, Pentax | Canon EOS Rebel series (EOS 850D, etc.), Canon EOS 90D, Canon EOS 5D Mark IV, Nikon D3500, Nikon D780, Nikon D850, Pentax K-70, Pentax K-1 Mark II | Features: Optical Viewfinder (OVF), robust build, established lens ecosystems (Canon EF/EF-S, Nikon F mount), generally larger and heavier than mirrorless, reliable autofocus, good battery life. <br> Range: Entry-level to professional, wide price range. | Uses: Photography (various genres, especially sports and action due to OVF), Professional photography, Studio work, Event photography, Wildlife photography, Traditional photography workflows. |
+| Compact Cameras | Point-and-Shoot | Sony, Canon, Panasonic, Fujifilm, Ricoh, Leica | Sony RX100 series, Canon PowerShot G series (G7 X Mark III, G5 X Mark II), Panasonic Lumix LX series, Fujifilm X100 series (fixed lens), Ricoh GR series (fixed lens), Leica Q series (fixed lens) | Features: Fixed lens (non-interchangeable), compact and lightweight, user-friendly, often with built-in zoom, suitable for casual photography and travel, varying sensor sizes (1-inch, APS-C in some advanced compacts). <br> Range: Entry-level to high-end compacts, price varies with features and sensor size. | Uses: Travel photography, Everyday snapshots, Street photography (discreet), Vlogging (some models), Point-and-shoot simplicity, Backup camera, Situations where small size and ease of use are prioritized. |
+| Bridge Cameras | Superzoom Compact | Panasonic, Canon, Sony, Nikon, Fujifilm | Panasonic Lumix FZ series, Canon PowerShot SX series, Sony Cyber-shot HX series, Nikon COOLPIX P series, Fujifilm FinePix HS series | Features: Fixed lens with extreme zoom range (often 20x, 50x, or more), DSLR-like styling but with a fixed lens, electronic viewfinder, versatile all-in-one solution, smaller sensor than DSLRs/Mirrorless. <br> Range: Mid-range, offering a balance of zoom range and features at a moderate price. | Uses: Travel photography (versatile zoom range), Wildlife photography (long zoom reach), Birdwatching, General photography where zoom versatility is key, Situations where lens changing is not desired. |
+| Action Cameras | Rugged, Compact Video | GoPro, DJI, Insta360, Sony, AKASO, Campark | GoPro HERO series, DJI Osmo Action series, Insta360 ONE series, Sony RX0 series, AKASO EK series, Campark X series | Features: Ultra-compact and rugged, waterproof and shockproof, designed for action and extreme sports, wide-angle lenses, excellent video capabilities (4K, slow-motion), image stabilization, various mounting options, small sensors. <br> Range: Entry-level to professional action cameras, price depends on features and ruggedness. | Uses: Action sports (surfing, skiing, biking, motorsports), Underwater filming, Vlogging (action-oriented), POV footage, Adventure and outdoor activities, Situations requiring extreme durability and small size. |
+| Cinema Cameras | Professional Video | ARRI, RED, Blackmagic Design, Canon, Sony, Panasonic | ARRI Alexa series, RED V-Raptor, RED Komodo, Blackmagic Design URSA Mini Pro, Blackmagic Pocket Cinema Camera series, Canon EOS Cinema series (C300, C500), Sony VENICE, Sony FX series (FX9, FX6, FX3), Panasonic VariCam series | Features: Professional video codecs and formats, high dynamic range, advanced color science, robust build quality, modular design, professional audio inputs, designed for cinematic filmmaking, larger sensors (Super 35, Full-Frame, Large Format). <br> Range: High-end professional cameras, very expensive, for professional film and video production. | Uses: Feature films, TV series, High-end commercials, Documentaries, Broadcast television, Professional video production, Situations demanding highest video quality and professional workflows. |
+| Camcorders | Dedicated Video | Canon, Sony, Panasonic, JVC | Canon XA/XF series, Canon VIXIA series (consumer), Sony PXW/HXR series, Sony FDR series (consumer), Panasonic HC series (consumer), Panasonic AG series (professional), JVC GY series | Features: Designed primarily for video recording, long zoom lenses, comfortable ergonomics for handheld video shooting, built-in microphones and audio controls, long recording times, image stabilization, various levels from consumer to professional broadcast. <br> Range: Consumer to professional broadcast camcorders, wide price range depending on features and target market. | Uses: Event videography (weddings, concerts), Documentary filmmaking, News gathering (ENG), Corporate video, Educational video, Home videos (consumer models), Situations where long recording times and ease of handheld video are prioritized. |
+| Medium Format Digital | High-Resolution Pro | Hasselblad, Phase One, Fujifilm | Hasselblad X series (X1D, X2D), Hasselblad H series, Phase One XF system, Phase One XT system, Fujifilm GFX series (GFX100S, GFX50S II) | Features: Largest sensor size (significantly larger than Full-Frame), exceptional image quality and detail, very high resolution, shallow depth of field at a different scale, often modular systems, highest professional image quality. <br> Range: High-end professional, extremely expensive, for specialized professional applications. | Uses: High-end commercial photography, Fashion photography, Landscape photography (highest detail), Fine art photography, Advertising, Situations demanding the absolute highest image quality and resolution. |
+| Smartphones | Mobile Photography/Video | Apple, Samsung, Google, Huawei, Xiaomi, OnePlus, etc. | Apple iPhone series, Samsung Galaxy S/Note/Ultra series, Google Pixel series, Huawei P/Mate series, Xiaomi Mi/Pro series, OnePlus series | Features: Integrated into mobile devices, extremely portable and convenient, computational photography (AI processing), improving image quality, increasingly sophisticated multi-lens systems, excellent video capabilities, user-friendly, always-connected. <br> Range: Consumer devices, price varies widely by brand and model features. | Uses: Everyday photography and video, Social media content creation, Travel photography (lightweight), Vlogging (increasingly capable), Mobile filmmaking, Situations where convenience and connectivity are paramount, and high image quality is increasingly achievable. |
+| Film Camera |  |  |  |  |  |
+| Instant Camera |  |  |  |  |  |
+| Drone |  |  |  |  |  |
+| Polaroid Camera |  |  |  |  |  |
+| Disposable Camera |  |  |  |  |  |
+| 360 Camera |  |  |  |  |  |
+| Rugged Camera |  |  |  |  |  |
+| Crane Camera |  |  |  |  |  |
+
+Table content:
+| Filter Type | Category | Description | Common Use/Effect |
+| --- | --- | --- | --- |
+| Protective Filters | Protection | Primarily used to protect the front element of the lens from physical damage, dust, and scratches. |  |
+| UV Filter | Protection | Originally designed to block ultraviolet (UV) light, but modern lenses often have UV coatings. Primarily used for physical lens protection. | Lens protection from scratches, dust, and fingerprints; minimal effect on image quality; can reduce haze in some (older) lenses but less crucial with modern coatings. |
+| Clear/Haze Filter | Protection | Optically clear glass filter with no color or effect, purely for lens protection. Some may have slight haze reduction properties. | Purely for lens protection; no impact on color or exposure; ideal for always-on protection without altering image characteristics. |
+| Light Modification Filters | Exposure/Density Control | Filters designed to control the amount of light entering the lens, affecting exposure and depth of field. |  |
+| Neutral Density (ND) Filter | Exposure/Density Control | Reduces the intensity of light across all wavelengths equally, allowing for longer exposures or wider apertures in bright conditions. | Shooting with wide apertures in bright sunlight (shallow depth of field), long exposure photography (motion blur), reducing brightness for video shooting at desired shutter speeds. |
+| Graduated ND Filter | Exposure/Density Control | ND filter that is dark on one half and clear on the other, with a gradual transition in between. | Balancing exposure between bright skies and darker foregrounds in landscape photography; controlling dynamic range in scenes with uneven lighting. |
+| Variable ND Filter | Exposure/Density Control | Adjustable ND filter achieved by rotating a ring, allowing for a range of ND strengths in a single filter. | Quickly adjusting ND strength without changing filters; convenient for video shooting in changing light conditions; can sometimes cause uneven density or cross-polarization. |
+| Polarizing Filters | Glare & Reflection Control, Color Enhancement | Filters that reduce glare and reflections from non-metallic surfaces and enhance color saturation, especially in skies and foliage. |  |
+| Circular Polarizer (CPL) | Glare & Reflection Control, Color Enhancement | Reduces glare and reflections from water, glass, and other non-metallic surfaces; deepens blue skies and enhances color saturation. | Reducing glare and reflections in landscape and outdoor photography; enhancing sky and foliage colors; improving contrast and clarity; essential for shooting water and glass. |
+| Linear Polarizer (PL) | Glare & Reflection Control, Color Enhancement | Older type of polarizer, similar effect to CPL but can interfere with autofocus and metering systems in some cameras. | Primarily for older manual focus cameras or specific scientific/technical applications where linear polarization is required; generally CPL is preferred for most photography. |
+| Color Filters | Color Modification | Filters designed to selectively alter the colors in an image, either for creative effects or color correction. |  |
+| Warming Filter | Color Modification | Adds a warm, yellowish or reddish tone to the image. | Enhancing skin tones in portraits, creating a warmer atmosphere, simulating golden hour light, useful in cool or overcast conditions. |
+| Cooling Filter | Color Modification | Adds a cool, bluish tone to the image. | Balancing overly warm light, creating a cooler or more sterile mood, useful in overly warm or sunset lighting conditions. |
+| Color Conversion Filters | Color Modification | Designed to shift the color temperature of light, e.g., converting daylight to tungsten or vice versa. | Matching color temperature to film stock or camera white balance settings when shooting under mixed lighting conditions; specialized for film and some video applications. |
+| Color Graduated Filters | Color Modification | Filters with color on one half and clear on the other, with a gradual transition, used to add color to skies or foregrounds selectively. | Adding color to skies (e.g., sunset effect), selectively coloring parts of the image, creative color effects in landscape and scenic photography. |
+| Special Effect Filters | Creative Effects | Filters designed to create various visual effects in-camera, ranging from diffusion to star effects. |  |
+| Diffusion Filter | Creative Effects | Softens the image, reduces sharpness and contrast, creates a dreamy or ethereal look. | Softening skin in portraits, creating a romantic or vintage feel, reducing harshness, useful for beauty and glamour photography and creating a softer cinematic look. |
+| Star Filter | Creative Effects | Creates starburst patterns from point light sources, adding a sparkling effect. | Enhancing point light sources (streetlights, candles, highlights), adding a glamorous or magical effect, often used in night photography and for decorative purposes. |
+| Center Spot Filter | Creative Effects | Keeps the center of the image sharp while blurring the edges, drawing focus to the central subject. | Vignetting effect, isolates the central subject, draws attention to the middle of the frame, creative effect for portraits or emphasizing a central element. |
+| Split Field Diopter | Creative Effects | Creates two planes of focus, allowing both foreground and background to be in focus simultaneously, with a blurred area in between. | Unusual and stylized effect, foreground and background in focus, often used for dramatic or surreal effects, requires careful composition and is less common. |
+| Streak Filter | Creative Effects | Creates linear streaks from bright light sources, simulating anamorphic lens flares. | Simulating anamorphic lens flares, adding a cinematic or stylized look to point light sources, often used in music videos and stylized filmmaking. |
+| Fog Filter | Creative Effects | Simulates the look of fog or mist, reducing contrast and creating a hazy atmosphere. | Creating a foggy or misty atmosphere, reducing clarity, adding mood and atmosphere, useful for landscape and atmospheric scenes. |
+| Infrared (IR) Filters | Specialized/Technical | Filters that block visible light and transmit infrared light, used for infrared photography and specialized scientific applications. |  |
+| Infrared (IR) Filter | Specialized/Technical | Blocks visible light, allowing only infrared light to pass through, creating unique black and white or false-color infrared images. | Infrared photography, capturing surreal landscapes and portraits with unique tonal qualities, specialized for artistic and scientific purposes. |
+
+Table content:
+| Color Grading Look | Description | Key Characteristics | Typical Use/Genre |
+| --- | --- | --- | --- |
+| Classic & Film-Inspired |  |  |  |
+| Warm & Vintage | Evokes a nostalgic, old-film look with warm tones and often softened contrast. | - Warm color palette (yellows, oranges, browns). <br> - Slightly desaturated colors. <br> - Gentle contrast, softened highlights and shadows. <br> - May include film grain or halation effects. | - Vintage photography and film. <br> - Period pieces, historical dramas. <br> - Romantic comedies, nostalgic stories. <br> - Instagram "vintage" filters. |
+| Cool & Moody | Creates a somber, dramatic, or melancholic mood with cool tones and often increased contrast. | - Cool color palette (blues, cyans, desaturated greens). <br> - Increased contrast, darker shadows. <br> - Can be slightly desaturated or have muted colors. <br> - Often used with underexposure. | - Thrillers, dramas, film noir. <br> - Urban photography, night scenes. <br> - Scenes with sadness, tension, or mystery. <br> - Atmospheric landscapes. |
+| Black & White (Monochrome) | Stripped of color, focuses on tones, contrast, and form. | - Absence of color, grayscale image. <br> - Emphasis on contrast, shadows, highlights, and texture. <br> - Can range from high contrast and dramatic to soft and subtle. <br> - Toning (sepia, selenium, etc.) can be added. | - Documentary photography, photojournalism. <br> - Art photography, portraits, landscapes. <br> - Classic films, dramatic scenes. <br> - When color is distracting or unnecessary, emphasizing form and emotion. |
+| Sepia Tone | A warm, brownish monochrome tone reminiscent of early photography. | - Warm brown monochromatic palette. <br> - Softened contrast. <br> - Evokes a sense of age, history, and nostalgia. | - Vintage or antique-style photography. <br> - Historical themes, period dramas. <br> - Adding a classic or timeless feel to images. |
+| Modern & Stylized |  |  |  |
+| High Contrast & Vibrant | Punchy, energetic look with strong contrast and saturated colors. | - High contrast between highlights and shadows. <br> - Saturated, vivid colors. <br> - Sharp and defined details. <br> - Energetic and attention-grabbing. | - Action movies, superhero films. <br> - Advertising, fashion photography. <br> - Music videos, fast-paced content. <br> - Modern, dynamic, and impactful visuals. |
+| Desaturated & Muted | Understated, subtle look with reduced color saturation and often lifted blacks. | - Low color saturation, muted tones. <br> - Lifted blacks (shadows are raised, less deep black). <br> - Soft contrast, gentle color palettes. <br> - Can feel melancholic, subtle, or naturalistic. | - Indie films, dramas. <br> - Naturalistic cinematography. <br> - Fashion and lifestyle photography with a subtle, understated aesthetic. <br> - When subtlety and emotional nuance are prioritized. |
+| Teal & Orange | Popular modern style using complementary teal (cyan) and orange tones, often high contrast. | - Dominant teal/cyan in shadows and cooler areas. <br> - Orange/warm tones in highlights and skin tones. <br> - Often high contrast. <br> - Creates a stylized, cinematic, and often dramatic look. | - Action and adventure films, blockbusters. <br> - Modern cinematic style, trailers. <br> - Urban and stylized photography. <br> - Popular in contemporary visual media. |
+| Cyberpunk/Neon | Futuristic, high-tech look with vibrant neon colors and strong contrasts. | - Highly saturated neon colors (cyan, magenta, yellow, green). <br> - Strong contrasts, deep blacks. <br> - Often uses color gradients and glows. <br> - Evokes a futuristic, digital, and often gritty aesthetic. | - Sci-fi, cyberpunk genre films and games. <br> - Music videos, stylized visuals. <br> - Night photography, urban landscapes with neon lighting. <br> - High-tech and futuristic themes. |
+| Pastel/Dreamy | Soft, ethereal, and gentle look with pastel colors and low contrast. | - Pastel color palette (soft pinks, blues, yellows, greens). <br> - Low contrast, soft highlights and shadows. <br> - Often slightly desaturated. <br> - Creates a gentle, dreamy, and whimsical atmosphere. | - Romantic comedies, fantasy, children's films. <br> - Wedding and portrait photography. <br> - Dream sequences, flashbacks. <br> - Lighthearted and whimsical content. |
+| Genre & Mood Based |  |  |  |
+| Horror/Suspense | Dark, unsettling look with cool tones, deep shadows, and often pushed contrast. | - Cool or neutral color palette (desaturated greens, blues, grays). <br> - Deep shadows, underexposure. <br> - High contrast or specific color casts (e.g., sickly green). <br> - Creates a sense of unease, fear, and dread. | - Horror films, thrillers, suspense genres. <br> - Dark and unsettling scenes. <br> - Emphasizing danger, isolation, and psychological tension. |
+| Sci-Fi/Futuristic | Clean, often cool or stylized look with vibrant accents and controlled palettes. | - Can vary widely, but often uses cool tones (blues, cyans) or stylized palettes. <br> - Clean and sharp visuals. <br> - Can incorporate neon accents or futuristic color schemes. <br> - Often emphasizes technology and advanced aesthetics. | - Science fiction films, futuristic settings. <br> - Tech-related visuals, product showcases. <br> - Creating a sense of advanced technology, sterility, or otherworldly environments. |
+| Action/Adventure | Dynamic, often warm or high-contrast look with bold colors and a sense of energy. | - Can vary, but often uses warm tones (oranges, yellows) or high contrast palettes. <br> - Energetic and punchy visuals. <br> - Can be stylized or realistic depending on the specific subgenre. <br> - Emphasizes excitement, dynamism, and action. | - Action movies, adventure films, sports content. <br> - High-energy scenes, chase sequences, explosions. <br> - Emphasizing excitement, speed, and impact. |
+| Documentary/Naturalistic | Realistic, unobtrusive look aiming for natural colors and balanced exposure. | - Natural color palette, aiming for accurate color reproduction. <br> - Balanced exposure, avoiding extreme highlights or shadows. <br> - Minimal stylistic color grading, often subtle corrections. <br> - Focus on authenticity and realism. | - Documentary films, news footage, reality TV. <br> - Naturalistic dramas, slice-of-life stories. <br> - When authenticity and realism are paramount, avoiding stylized or artificial looks. |
+| Movie or director reference look |  |  |  |

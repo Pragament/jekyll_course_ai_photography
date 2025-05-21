@@ -1,0 +1,72 @@
+
+Processing started/resumed at 2025-05-12 21:31:41
+Total chunks: 39, Starting from: 1
+Completed chunk 1/39: 01_mastering_creative_prompts_for_visual_arts.md
+Completed chunk 2/39: 02_exploring_digital_art_a_comprehensive_guide.md
+Completed chunk 3/39: 03_exposure_control_understanding_creative_choices_an.md
+
+Processing started/resumed at 2025-05-13 07:24:49
+Total chunks: 39, Starting from: 4
+Completed chunk 4/39: 04_fast_action_sports_daylight_medium_aperture_f.md
+
+Processing started/resumed at 2025-05-13 07:46:16
+Total chunks: 39, Starting from: 5
+Completed chunk 5/39: 05_table_data_understanding_major_race_categories_and.md
+Completed chunk 6/39: 06_table_data_a_comprehensive_guide_to_fashion_catego.md
+
+Processing started/resumed at 2025-05-13 08:35:18
+Total chunks: 39, Starting from: 7
+Completed chunk 7/39: 07_module_7.md
+
+Processing started/resumed at 2025-05-13 08:47:36
+Total chunks: 39, Starting from: 8
+
+Processing started/resumed at 2025-05-13 20:47:45
+Total chunks: 39, Starting from: 8
+Completed chunk 8/39: 08_module_8.md
+
+Processing started/resumed at 2025-05-13 20:58:31
+Total chunks: 39, Starting from: 9
+Completed chunk 9/39: 09_table_data_a_comprehensive_guide_to_fashion_style_.md
+Completed chunk 10/39: 10_table_data_camera_angles_shot_types_and_their_sign.md
+Completed chunk 11/39: 11_table_data_filmmaking_techniques.md
+Completed chunk 12/39: 12_mastering_table_data_in_film_composition.md
+Completed chunk 13/39: 13_mastering_camera_techniques_for_effective_storytel.md
+Completed chunk 14/39: 14_table_data_camera_techniques_for_cinematic_storyte.md
+
+Processing started/resumed at 2025-05-15 06:56:26
+Total chunks: 39, Starting from: 15
+Completed chunk 15/39: 15_table_data_create_a_clear_specific_title.md
+Completed chunk 16/39: 16_table_data_create_a_clear_specific_title.md
+
+Processing started/resumed at 2025-05-16 22:29:05
+Total chunks: 39, Starting from: 17
+Completed chunk 17/39: 17_table_data_lighting_types_for_photography.md
+Completed chunk 18/39: 18_table_data_understanding_lens_types_and_their_appl.md
+Completed chunk 19/39: 19_table_data_create_a_clear_specific_title.md
+Completed chunk 20/39: 20_understanding_lens_types_a_guide_to_full-frame_and.md
+
+Processing started/resumed at 2025-05-17 11:46:37
+Total chunks: 39, Starting from: 21
+Completed chunk 21/39: 21_understanding_aperture_a_guide_to_controlling_ligh.md
+Completed chunk 22/39: 22_table_data_understanding_camera_settings.md
+Completed chunk 23/39: 23_table_data_create_a_clear_specific_title.md
+Completed chunk 24/39: 24_table_data_understanding_camera_types_and_their_ch.md
+Completed chunk 25/39: 25_table_data_create_a_clear_specific_title.md
+Completed chunk 26/39: 26_table_data_camera_categories_brands_and_key_featur.md
+Completed chunk 27/39: 27_table_data_camera_type_categories.md
+Completed chunk 28/39: 28_table_data_create_a_clear_specific_title.md
+Completed chunk 29/39: 29_table_data_camera_types_for_professional_video_pro.md
+Completed chunk 30/39: 30_table_data_camera_type_categories.md
+Completed chunk 31/39: 31_table_data_camera_type_categories_and_their_charac.md
+Completed chunk 32/39: 32_table_data_camera_type_categories_and_key_features.md
+Completed chunk 33/39: 33_table_data_camera_types_features_and_uses.md
+Completed chunk 34/39: 34_table_data_camera_categories_types_and_characteris.md
+Completed chunk 35/39: 35_table_data_camera_categories_types_and_features.md
+
+Processing started/resumed at 2025-05-18 09:34:51
+Total chunks: 39, Starting from: 36
+Completed chunk 36/39: 36_table_data_understanding_filters_for_your_lens.md
+Completed chunk 37/39: 37_table_data_create_a_clear_specific_title.md
+Completed chunk 38/39: 38_table_data_understanding_filter_types_for_creative.md
+Completed chunk 39/39: 39_table_content.md
